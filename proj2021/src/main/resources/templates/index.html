@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 
+
 <head>
   <!-- basic -->
   <meta charset="utf-8">
@@ -49,6 +50,7 @@
             <div class="col-xl-2 col-lg-4 col-md-4 col-sm-3 col logo_section">
               <div class="full">
                 <div class="center-desk">
+                    <h1 th:text="${name}" />
                 </div>
               </div>
             </div>
@@ -63,8 +65,8 @@
                       <li> <a href="#vegetable">Vegetable</a> </li>
                       <li> <a href="#testimonial">Testomonial</a> </li>
                       <li> <a href="#contact">Contact Us</a> </li>
-                        <li> <a href="#contact">login</a> </li>
-                     
+                        <li> <a href="/user">login</a> </li>
+                        <li> <a href="/">logout</a> </li>
                      <li> <a href="#"><img src="/icon/icon_b.png" alt="#" /></a></li>
                      </ul>
                    </nav>
@@ -398,6 +400,7 @@
                   <button class="send">Send</button>
                 </div>
               </div>
+            </div>
             </form>
           </div>
             </div>
@@ -476,6 +479,7 @@
           </footr>
           <!-- end footer -->
           <!-- Javascript files-->
+          <script type="text/javascript" th:src="@{/js/index.js}"></script>
           <script src="/js/jquery.min.js"></script>
           <script src="/js/popper.min.js"></script>
           <script src="/js/bootstrap.bundle.min.js"></script>
