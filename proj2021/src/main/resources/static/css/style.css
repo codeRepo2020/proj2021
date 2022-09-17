@@ -45,7 +45,7 @@
      padding: 0 0 10px 0;
      font-weight: normal;
      line-height: normal;
-     color: #111111;
+     color: #020500;
      margin: 0 
 }
  h1 {
@@ -405,7 +405,7 @@
 }
 /*-- end header middle --*/
  .top-bar-info {
-     background: #111111;
+     background: #7377f0;
      padding: 5px 0px;
 }
  .top-menu-left {
@@ -483,7 +483,7 @@
      cursor: pointer;
 }
  .dropdown-bar .dropdown-link li a {
-     color: #111111;
+     color: #7377f0;
      display: block;
      font-size: 12px;
      line-height: 15px;
@@ -501,7 +501,7 @@
  .right-dropdown-language .dropdown-link {
      min-width: 100px;
      padding: 7px 10px;
-     color: #111111;
+     color: #7377f0;
 }
  .dropdown-bar {
      position: relative;
@@ -532,7 +532,7 @@
  .right-dropdown-currency .dropdown-link {
      min-width: 100px;
      padding: 7px 10px;
-     color: #111111;
+     color: #7377f0;
 }
  .right-dropdown-currency .dropdown-link {
      min-width: 55px;
@@ -566,7 +566,7 @@
      text-transform: uppercase;
 }
  .btn-template-outlined {
-     background: #111111;
+     background: #7377f0;
      color: #ffffff;
      border: none;
      border-radius: 0px;
@@ -619,7 +619,7 @@
      cursor: pointer;
 }
  .header-search form .search-btn:hover {
-     background: #111111;
+     background: #7377f0;
 }
  .cart-box {
      float: right;
@@ -728,7 +728,7 @@
      border-radius: 2px;
 }
  .wish-box a span.icon:hover {
-     background: #111111;
+     background: #7377f0;
 }
  .cart-content-right {
      padding: 5px 0px;
@@ -791,7 +791,7 @@
      text-align: left;
 }
  .cart-content-box .items .item .remove:hover {
-     background: #111111;
+     background: #7377f0;
 }
  .subtotal {
      text-align: left;
@@ -802,7 +802,7 @@
 }
  .subtotal span {
      font-weight: bold;
-     color: #111111;
+     color: #7377f0;
      padding-left: 15px;
      float: right;
 }
@@ -833,7 +833,7 @@
      font-size: 12px;
 }
 .menu-area-main li.active a {
-     color: #538d2e;
+     color: #041a40;
      }
 
  .main-menu {
@@ -877,7 +877,7 @@
  .main-menu ul>li .sub-down li a::before {
 }
  .main-menu ul>li .sub-down li a:hover {
-     color: #111111;
+     color: #7377f0;
 }
  .main-menu ul>li .sub-down li a:hover::before {
 }
@@ -1011,10 +1011,10 @@ width: 24%;
   .text-bg span {
        font-size: 41px;
     line-height: 51px;
-    color: #020500
+    color: #041a40
   }
  .text-bg h1 {
-    color: #43960f;
+    color: #020500;
 padding-top: 10px;
 font-size: 71px;
 line-height: 85px;
@@ -1024,7 +1024,7 @@ font-weight: bold;
  .text-bg p {
      font-size: 20px;
      display: block;
-     color: #020500;
+     color: #041a40;
      line-height: 30px;
      padding-bottom: 50px;
      font-weight: 500;
@@ -1043,8 +1043,8 @@ font-weight: bold;
 }
  .Search_btn {
     padding: 15px 0px;
-    border: #1a1b19 solid 1px;
-     background: #1a1b19;
+    border: #020500 solid 1px;
+     background: #020500;
      color: #fff;
      margin-left: -5px;
      font-weight: 500;
@@ -1056,8 +1056,8 @@ font-weight: bold;
       transition: all 0.3s ease-in;
 }
  .Search_btn:hover {
-     background: #428713;
-     border: #428713 solid 1px;
+     background: #070905;
+     border: #070905 solid 1px;
      color: #fff;
      transition: all 0.3s ease-in;
 
@@ -1067,8 +1067,8 @@ font-weight: bold;
 
  .text-bg a {
      font-size: 16px;
-border: #1a1b19 solid 1px;
-background-color: #1a1b19;
+border: #020500 solid 1px;
+background-color: #020500;
 color: #fff;
 padding: 9px 0px;
 max-width: 171px;
@@ -1080,8 +1080,8 @@ text-align: center;
 margin-right: 10px;
  }
  .text-bg a:hover {
-     background-color: #428713;
-     border: #428713 solid 1px;
+     background-color: #070905;
+     border: #070905 solid 1px;
     color: #fff;
 }
  .text {
@@ -1124,9 +1124,9 @@ margin-right: 10px;
 
 .carousel-caption {position: inherit;}
 .carousel-indicators .active {
-    background-color: #1a1b19;
+    background-color: #020500;
 }
-.carousel-indicators li {width: 15px; height: 15px; border-radius: 10px; background: #428713; }
+.carousel-indicators li {width: 15px; height: 15px; border-radius: 10px; background: #070905; }
 .padding_dd {padding: 0px 50px;}
 .carousel-control-next {display: none;}
 .carousel-control-prev {display: none;}
@@ -1164,7 +1164,7 @@ background-repeat: no-repeat;
      line-height: 40px;
      font-size: 45px;
      text-transform:uppercase;
-     background: #547d13;
+     background: #020500;
      display: inline-block;
      padding: 20px 30px;
 
@@ -1192,8 +1192,8 @@ border-radius: 30px;
 
 
  .about .about-box a:hover{ 
-     background-color: #428713;
-     border: #428713 solid 1px;
+     background-color: #070905;
+     border: #070905 solid 1px;
     color: #fff;
  }
  .about .about-box_img figure {
@@ -1237,7 +1237,7 @@ display: block;
     align-items: center;
     right: 0;
     top: 44%;
-    background: #428713;
+    background: #070905;
     padding: 19px 27px;
     border-radius: 88px;
     margin-right: -20px;
@@ -1253,7 +1253,7 @@ display: block;
     align-items: center;
     right: 0;
     top: 27%;
-    background: #428713;
+    background: #070905;
     padding: 19px 25px;
     border-radius: 88px;
     margin-right: -20px;
@@ -1364,13 +1364,13 @@ border-radius: 50px;
 
 
 .testimonial_cont {
-    background: #428713cc;
+    background: #070905cc;
     min-height: 295px;
     padding: 60px 40px;
 }
 .text_align_center {
     text-align: center;
-background: #428713;
+background: #070905;
 }
 .ornage_color {
 font-size: 19px;
@@ -1448,8 +1448,8 @@ background-size: 100%;
 }
  .contact .contact_bg .send {
      font-size: 16px;
-     border: #428713 solid 1px;
-     background-color: #428713;
+     border: #070905 solid 1px;
+     background-color: #070905;
      color: #fff;
      padding: 11px 67px;
      float: right;
@@ -1504,7 +1504,7 @@ margin-bottom: 20px;
  .submit {
     padding: 9px 0;
 
-background: #428713;
+background: #070905;
 color: #fff;
 margin-left: -5px;
 font-weight: 500;
@@ -1575,7 +1575,7 @@ transition: all 0.3s ease-in;
  .copyright {
      padding: 20px 0px;
      margin-top: 55px;
-     background-color: #428713;
+     background-color: #070905;
 }
  .copyright p {
      color: #fff;
